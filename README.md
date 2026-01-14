@@ -1,18 +1,18 @@
 # Emulator-for-start-emulator-ps3-arm64-
 
-## Швидкий старт (all-in-one)
+## Швидкий старт Mobox (емулятор RPCS3 ARM64 Windows)
 
-1. Завантажте файл rpcs3-arm64-android-install.sh у Termux.
+1. Завантажте файл mobox-install.sh у Termux.
 2. Дайте права на виконання:
-	chmod +x rpcs3-arm64-android-install.sh
+	chmod +x mobox-install.sh
 3. Запустіть скрипт:
-	./rpcs3-arm64-android-install.sh
+	./mobox-install.sh
 
-Скрипт автоматично встановить всі залежності, завантажить RPCS3 ARM64 Windows, розпакує та запустить емулятор.
+Скрипт автоматично встановить всі залежності, завантажить Mobox, розпакує та запустить емулятор.
 
 ---
 
-### Детальна інструкція та додаткові скрипти — нижче.
+### Детальна інструкція та додаткові скрипти — не потрібні, все в одному файлі.
 
 ## Запуск RPCS3 ARM64 Windows на Android через Termux
 
